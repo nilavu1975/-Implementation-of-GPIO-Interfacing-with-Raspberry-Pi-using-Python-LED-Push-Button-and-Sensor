@@ -88,9 +88,7 @@ Raspberry Pi Pico
 
 ## Output:
 
-
-<img width="1024" height="539" alt="image" src="https://github.com/user-attachments/assets/e468a6bc-9fe3-4821-84ba-3e5283dc4ec8" />
-
+<img width="1024" height="487" alt="image" src="https://github.com/user-attachments/assets/57efc663-11db-4dcf-b96d-271e57d66c3c" />
 
 
 ## Result
