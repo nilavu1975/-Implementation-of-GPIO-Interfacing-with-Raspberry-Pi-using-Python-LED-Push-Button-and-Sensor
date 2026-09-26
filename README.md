@@ -89,7 +89,7 @@ Raspberry Pi Pico
 ## Output:
 
 <img width="1024" height="487" alt="image" src="https://github.com/user-attachments/assets/57efc663-11db-4dcf-b96d-271e57d66c3c" />
-
+<img width="731" height="1600" alt="WhatsApp Image 2026-09-26 at 10 46 20 AM" src="https://github.com/user-attachments/assets/004b6696-00b5-4204-a16e-080e3a2d365b" />
 
 ## Result
 
